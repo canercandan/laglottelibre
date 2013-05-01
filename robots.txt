@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://canercandan.github.com/laglottelibre/sitemap.xml 
+Sitemap: http://laglottelibre.fr/sitemap.xml 

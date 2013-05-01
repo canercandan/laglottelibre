@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[La glotte libre]]></title>
-  <link href="http://canercandan.github.com/laglottelibre/atom.xml" rel="self"/>
-  <link href="http://canercandan.github.com/laglottelibre/"/>
-  <updated>2013-05-02T01:06:24+02:00</updated>
-  <id>http://canercandan.github.com/laglottelibre/</id>
+  <link href="http://laglottelibre.fr/atom.xml" rel="self"/>
+  <link href="http://laglottelibre.fr/"/>
+  <updated>2013-05-02T01:39:56+02:00</updated>
+  <id>http://laglottelibre.fr/</id>
   <author>
     <name><![CDATA[laglottelibre]]></name>
     
