@@ -9,12 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="304.16125"
-   height="160"
+   width="800"
+   height="400"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="header.svg"
+   inkscape:export-filename="/Dev/octopress/source/images/header.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -59,10 +62,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-118.42486,-280.25524)">
+     transform="translate(-118.42486,-40.25524)">
     <g
        id="g37720"
-       transform="translate(82.791899,-6.708127)">
+       transform="matrix(2.6301838,0,0,2.6301838,22.182886,-722.16343)">
       <g
          id="g34460">
         <g
